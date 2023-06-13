@@ -9,10 +9,12 @@ Descontinuar um produto é o que chamamos de "desmarcar ele do mix". Fazendo iss
 Tendo isso em mente, é possível fazer da seguinte forma:
 Como no cadastro de produto é possível desmarcar por loja o pertencente ao mix, se torna inviável descontinuar um item ou uma lista manualmente, então entra em ação o programa "Alteração Global de Dados".<br> Basta ir na lupa e escrever "global":
 
-![image](https://github.com/abastecimento-tischler/descontinuar-produtos/assets/136457923/db5234ca-2649-4068-a6cb-03214d643a2b)
+![image](https://github.com/abastecimento-tischler/descontinuar-produtos/assets/136457923/0081e021-ea5e-4d06-b492-4c267df3657e)
 
 A tela do programa então consiste em alguns campos extremamente sensíveis, sendo necessário muita atenção de quem for fazer a alteração:
-![image](https://github.com/abastecimento-tischler/descontinuar-produtos/assets/136457923/14dfbc2a-fd95-4899-ab6e-b61b3cdbd4a1)
+
+![image](https://github.com/abastecimento-tischler/descontinuar-produtos/assets/136457923/3f6bfb15-ed1e-4e1b-bcda-3a039a248e0f)
+
 * Empresa: é colocado a empresa que tu deseja fazer as alterações, sendo possível selecionar só algumas ou todas.
 * Produto: é coloca um ou mais códigos, clicando nos "..." e selecionando mais produtos.
 * Departamento, Categoria, Subcategoria e Segmento: aqui é possível filtrar algumas informaçõe, mas é raramente usado.
