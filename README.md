@@ -1,4 +1,4 @@
-[xxx](#x-x)
+[descontinuar-produtos](#descontinuar-produtos)
 
 
 
@@ -30,7 +30,6 @@ A tela do programa então consiste em alguns campos extremamente sensíveis, sen
 * Configurar: é de extrema importância, pois para inativar precisa estar escolhido dentro do configurar a opção "pertence ao mix de produtos". E quando mais de um usuário usa o programa de alteração global de dados é o que ele estava usadno que vai aparecer ao abrir o mesmo, portanto novamente, muita atenção nessa parte também.
 
 ___
-## x x
 # Conclusão
 Podemos então concluir que é uma tela sensível, que exige muita atenção, pois um campo errado pode alterar as informações do cadastro de produtos todo. O ideal é que seja sempre conversado quais produtos serão inativados, contando com a participação do comercial.
 
